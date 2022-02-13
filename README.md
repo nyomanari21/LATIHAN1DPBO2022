@@ -1,7 +1,6 @@
 # LATIHAN1DPBO2022
 
-# Saya Nyoman Ari Satyadharma 2000831 mengerjakan (...) dalam mata kuliah Desain dan Pemrograman Berorientasi Objek
-# untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
+# Saya Nyoman Ari Satyadharma 2000831 mengerjakan (...) dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
 
 //Penjelasan kode program
 Saya membuat kelas TimSepakBola yang memiliki atribut privat nama_tim, negara, tahun_berdiri, pemain, dan pelatih. atribut pemain dibuat sebagai array of string dan atribut lainnya dibuat sebagai string.
